@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikhil1087
 - 👀 I’m interested in programming and development.
-- 🌱 I’m currently learning data structures and algorit
+- 🌱 I’m currently learning data structures and algorithms.
 - 📫 How to reach me contact me on redrock6306@gmail.com
 
 <!---
